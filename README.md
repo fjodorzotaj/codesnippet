@@ -35,11 +35,17 @@ mongodb://user:password@host.mlab.com:35532/dbname
 
 ## First setup and installation
 `node -v`  make sure that node is installed
+
 `npm -v`   make sure that npm packager is installed
+
 `npm install -g @angular/cli` make sure that angular is installed, otherwise install it with npm
+
 `npm install --save express body-parser`  install the required express and body-parser
+
 `npm install` install the required angular packages
+
 `ng build` to build the project
+
 `node server.js` to start the application which will be accessible in `http://localhost:3000`
 
 Port can be changed in the `server.js` file
