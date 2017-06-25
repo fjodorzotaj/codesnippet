@@ -1,4 +1,4 @@
-# Codesnipped application
+# CodeSnippet application
 
 This project was created with the MEAN stack and generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
 
