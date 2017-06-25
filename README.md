@@ -46,7 +46,7 @@ mongodb://user:password@host.mlab.com:35532/dbname
 
 `ng build` to build the project
 
-`node server.js` to start the application which will be accessible in `http://localhost:3000`
+`node server.js` to start the application which will be accessible from `http://localhost:3000`
 
 Port can be changed in the `server.js` file
 
